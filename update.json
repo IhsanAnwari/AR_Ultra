@@ -1,19 +1,15 @@
 {
- "version":"1.23",
- "title":"🛠️ Update Available V1.23 🛠️",
+ "version":"1.23F",
+ "title":"🛠️ Update Available V1.23F 🛠️",
  "description":"Update now new version enjoy best experience.
 
-✅ ARWhatsApp Ultra V1.23
+✅ ARWhatsApp Ultra V1.23F
 
-🆕 Added a shortcut to ARWA Settings in the drawer.
- 
-🆕 Added a shortcut to the Conversation Screen in the chat drawer.
- 
-🆕 Added a new design for the Settings menu.
+🆕 New Added color option to the video animation button.
 
-🎨 Added a new option at the top of the home screen that allows you to change the app's theme and choose light, elegant colors that match your style.
- 
-💬 Added a feature to easily change the chat background color.
+🛠 Fixed a bug that occurred when clicking on the light or dark theme in the settings
+
+🛠 Fixed bug when disabling header curve.
  
 🆕 Fix bugs and more.
 
